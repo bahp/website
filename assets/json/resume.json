@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Bernard Hernandez",
+    "label": "Data Scientist, Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://bahp.github.io/",
+    "summary": "Proven expertise in the end-to-end development of data-driven applications and clinical decision support tools to tackle challenges in healthcare, including antimicrobial resistance and diagnosis of infectious diseases. Passionate about translating complex research into practical, impactful AI solutions for global health challenges.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "B420 Bessemer building, South Kensington Campus",
+      "postalCode": "SW7 2AZ",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "United Kingdom"
     },
     "profiles": [
       {
@@ -24,177 +24,341 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Imperial College London, Department of Medicine",
+      "location": "London, UK",
+      "position": "Research Fellow on AI/ML",
+      "url": "",
+      "startDate": "2023-",
+      "endDate": "2025",
+      "summary": "The Centres for Antimicrobial Optimisation Network (CAMO-NET) funded by Wellcome brings\n          together research teams from the University of Liverpool and Imperial College London in\n          the United Kingdom, the University of Cape Town in South Africa, the Infectious Diseases\n          Institute in Uganda, and the Faculty of Medicine at the University of Sao Paulo in Brazil\n          to conduct research to optimize antimicrobial use and improve access to effective treatment\n          for bacterial infections across low-, middle-, and high-resource settings.\n            <a href=\"https://camonet.org/\" class=\"float-right\" target=\"_blank\">\n              <i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i>\n            </a>      ",
+      "highlights": []
+    },
+    {
+      "name": "Imperial College London, EEE Department",
+      "location": "London, UK",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2020-",
+      "endDate": "2023",
+      "summary": "Artificial Intelligence and machine learning to devise clinical decision support systems (CDSS) from clinical, physiological and imaging data for the early identification of dengue in low- and middle-income countries. <a href=\"/portfolio-academic/projects/vital/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+      "highlights": [
+        "Featured innovative start-up at Tech Foresight 2040.<a href=\"/portfolio-academic/news/announcement_5/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+        "Techcelerate award (entrepreneurial program), 2020.<a href=\"/portfolio-academic/news/announcement_4/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+        "Assistant PhD supervisor"
+      ]
+    },
+    {
+      "name": "Imperial College London, EEE Department",
+      "location": "London, UK",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2014.04-",
+      "endDate": "2019",
+      "summary": "Development of a comprehensive and modular data-driven web-based intelligent decision support system to help clinicians prescribe the most appropriate antibiotics at the point of care. <a href=\"/portfolio-academic/projects/epicimpoc/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+      "highlights": []
+    },
+    {
+      "name": "WIDE IO LTD",
+      "location": "London, UK",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2014.01",
+      "endDate": "2014.03",
+      "summary": "Start-up working on disruptive products within the quadrangle of Artificial Intelligence, API, IoT, and FinTech to build an ecosystem of data science tools within the cloud to allow organisations to have constant access to state-of-art technology.",
+      "highlights": []
+    },
+    {
+      "name": "IRILL (internship)",
+      "location": "Paris, France",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2012.07-",
+      "endDate": "2012.08",
+      "summary": "Internship at the Center for Innovation and Research on Free Software (IRILL) under the Leonardo program, 2012. The aim of this one-month internship was to develop e-learning resources such as blog entries, ebooks and games.",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Imperial College London",
+      "location": "London, UK",
+      "url": "",
+      "area": "<b>Supervisor:</b> Pantelis Georgiou <br> <b>Group:</b> Centre for Bio-Inspired Technology, EEE Department <br> <b>Thesis: </b> Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.\n <a href=\"https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=Data%2Ddriven%20web%2Dbased%20intelligent%20decision%20support%20system%20for%20infection%20management%20at%20point%20of%20care\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+      "studyType": "PhD in Computer Science and Healthcare",
+      "startDate": "2014",
+      "endDate": "2019",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+         "Participation in the Imperial Festival, 2016-2017.",
+         "Research placement at UCT, Cape Town, South Africa, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_15/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+         "Global Health Fellows Programme at UCT, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_12/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+         "Best poster award at EMBRACE conference, 2016. <a href=\"https://bahp.github.io/portfolio-academic/news/announcement_11/\" class=\"float-right\" target=\"_blank\"> <i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+         "Participation in AMR DxC at University of Edinburgh, 2015.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_13/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>"
+      ]
+    },
+    {
+      "institution": "Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "url": "",
+      "area": "<b>Supervisor:</b> Mårten Björkman <br> <b>Group:</b> School of Computer Science and Communication <br> <b>Thesis: </b> Multi-view object recognition and classification. Graph-Based representation of visual features and structured learning and prediction. <a href=\"https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=KTH-,Multi%2DView%20Object%20Recognition%20and%20Classification.%20Graph%2DBasedRepresentation%20of%20Visual%20Features%20and%20Structured%20Learning%20and%20Prediction,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+      "studyType": "M.Sc. in Machine Learning (2 years)",
+      "startDate": "2011",
+      "endDate": "2013",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Rey Juan Carlos University",
+      "location": "Madrid, Spain",
+      "url": "",
+      "area": "<b>Supervisor:</b> Inmaculada Mora <br> <b>Group:</b> Signal Theory and Communications <br> <b>Thesis: </b> Algorithms for detection and description of visual features for object recognition. Analysis and applications. <a href=\"https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=URJC-,Algorithms%20for%20Detection%20and%20Description%20of%20Visual%20Features%20for%20Object%20Recognition.%20Analysis%20and%20Applications,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+      "studyType": "B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)",
+      "startDate": "2007",
+      "endDate": "2013",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Imperial College COVID-19 Response Fund (£100,000)",
+      "date": "2020",
+      "awarder": "Imperial College London",
+      "url": "",
+      "summary": "Philanthropic initiative created to accelerate urgent research into understanding, diagnosing, preventing, and treating the coronavirus."
+    },
+    {
+      "title": "Featured innovative start-up at Tech Foresight 2040",
+      "date": "2020",
+      "awarder": "Imperial College London",
+      "url": "",
+      "summary": "Event analyzing emerging technologies and their potential impact."
+    },
+    {
+      "title": "Imperial College Techcelerate Award (£30,000)",
+      "date": "2020",
+      "awarder": "Imperial College London",
+      "url": "",
+      "summary": "Entrepreneurial programme to fast-track business ideas."
+    },
+    {
+      "title": "Imperial-UCT Global Health Fellows Programme (£3,000)",
+      "date": "2016",
+      "awarder": "Imperial College London",
+      "url": "",
+      "summary": "Professional skills programme with an additional research placement."
+    },
+    {
+      "title": "Best Poster Award",
+      "date": "2016",
+      "awarder": "Antimicrobial Research Collaborative",
+      "url": "",
+      "summary": "Interdisciplinary network that brings together leading academics, scientists, and clinicians to combat the global threat of Antimicrobial Resistance (AMR)."
+    },
+    {
+      "title": "Antimicrobial Resistance Diagnostics Competition - AMR DxC",
+      "date": "2015",
+      "awarder": "University of Edinburgh",
+      "url": "",
+      "summary": "Competition and accelerator programme designed to stimulate and fast-track the development of new diagnostic tests for antimicrobial resistance (AMR)."
+    },
+    {
+      "title": "Young Researchers Best Thesis Award (£1,000)",
+      "date": "2013",
+      "awarder": "Rey Juan Carlos University Social Council",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Leonardo Scholarship (£1,500)",
+      "date": "2012",
+      "awarder": "Spanish Ministry of Science and Innovation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Erasmus Scholarship (£5,000)",
+      "date": "2011",
+      "awarder": "Spanish Ministry of Science and Innovation",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2011",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
+      "name": "Artificial Intelligence",
+      "date": "2011",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "",
+      "icon": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "See the <a href=\"/portfolio-academic/publications/journals/\">journals</a> or <a href=\"/portfolio-academic/publications/conferences/\">conference</a> pages for a full list."
+    }
+  ],
+  "outreach": [
+    {
+      "name": "Imperial College Festival",
+      "publisher": "",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Imperial College Festival",
+      "publisher": "",
+      "releaseDate": "2016",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Imperial College Festival",
+      "publisher": "",
+      "releaseDate": "2015",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Domains & Expertise",
+      "level": "",
+      "icon": "fa-solid fa-lightbulb",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Data Manipulation",
+        "Clinical Decision Support"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+        "Communication, Collaboration, Problem-Solving",
+        "Mentorship, Leadership, Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python, JavaScript, SQL, HTML5 & CSS3",
+        "Bash / Shell Scripting, LaTeX",
+        "R & MATLAB, C / C++, Java"
+      ]
+    },
+    {
+      "name": "Data Science & Machine Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Pandas, NumPy, SciPy, Scikit-learn",
+        "TensorFlow, PyTorch, Keras",
+        "Matplotlib, Seaborn, Plotly"
+      ]
+    },
+    {
+      "name": "Back-End Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Django, Flask, FastAPI",
+        "Celery, SQLAlchemy, REST APIs",
+        "PostgreSQL, MySQL, QLite, MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "level": "Proficient",
+      "icon": "fa-solid fa-cloud-arrow-up",
+      "keywords": [
+        "CI/CD, Git, GitHub Actions, Docker",
+        "Travis, Codecov, ReadTheDocs, Heroku",
+        "AWS, Google Cloud (GCP), Microsoft Azure"
+      ]
+    },
+    {
+      "name": "Research & Scientific Computing",
+      "level": "Expert",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Algorithm Design, Data Structures",
+        "Statistical Modelling, Academic Writing",
+        "Jupyter Notebooks, LaTeX",
+        "Peer Reviewing"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full professional proficiency",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+     {
+      "name": "Professor Alison Holmes",
+      "icon": "fa-solid fa-user-doctor",
+      "reference": "Professor of Infectious Diseases at Imperial College London, an internationally recognised expert in antimicrobial resistance (AMR) and infection prevention."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Pantelis Georgiou",
+      "icon": "fa-solid fa-microchip",
+      "reference": "Professor of Biomedical Electronics at Imperial College London and Head of the Centre for Bio-inspired Technology, specialising in medical diagnostic devices."
+    },
+    {
+      "name": "Professor Marc Mendelson",
+      "icon": "fa-solid fa-stethoscope",
+      "reference": "Professor and Head of the Division of Infectious Diseases & HIV Medicine at the University of Cape Town, focusing on antimicrobial resistance policy."
+    },
+    {
+      "name": "Professor Inmaculada Mora",
+      "icon": "fa-solid fa-camera-retro",
+      "reference": "Professor in Signal Theory and Communications at Rey Juan Carlos University, with expertise in computer vision, image processing, and machine learning."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
