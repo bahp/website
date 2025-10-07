@@ -1,0 +1,96 @@
+# Journals
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Vision":
+  color: "#009f36"
+
+"CMI":
+  url: https://journals.aps.org/
+  color: "#d3d3d3"
+
+"BMC ID":
+  color: "#04caa8"
+
+"BMC MIDM":
+  color: "#04caa8"
+
+"BMC Medicine":
+  color: "#04caa8"
+
+"BMC ARIC":
+  color: "#04caa8"
+
+"BMJ":
+  color: "#15375e"
+
+"PLOS DH":
+  color: "#f65606"
+
+"Antibiotics":
+  color: "#A25443"
+
+"CID":
+  color: "#006fb7"
+
+"JAC":
+  color: "#ea5b0c"
+
+"JAC AMR":
+  color: "#ea5b0c"
+
+"IEEE BHI":
+  color: "#00629B"
+
+"IJID":
+  color: "#0092d7"
+
+"Frontiers DH":
+  color: "#CAE87C"
+
+"Frontiers Phys.":
+  color: "#CAE87C"
+
+"TLDH":
+  color: "#6667ab"
+
+"AIIM":
+  color: "#CE762A"
+
+
+
+# Conferences
+"ICID":
+  color: "#10BEF0"
+
+"ECCMID":
+  color: "#96BD24"
+
+"FIS":
+  color: "#39584C"
+
+
+
+# Universities
+"URJC":
+  color: "#CB0017"
+
+"KTH":
+  color: "#2258A5"
+
+"ICL":
+  color: "#003E74"
+
+# Academic levels
+"PhD":
+  color: "#C87878"
+"M.Sc.":
+  color: "#4A6C8B"
+"M.Eng.":
+  color: "#91A3B0"
+"B.Eng.":
+    color: "#D4B996"
