@@ -18,4 +18,3 @@ categories: award
 <div class="publications">
    {% bibliography -f supervision -q @*[key=oliver2021similarity]* %}
 </div>
-

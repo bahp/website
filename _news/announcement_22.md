@@ -24,7 +24,6 @@ categories: conference
 
 See <a href="/portfolio-academic/assets/pdf/conferences/2024/camonet-ai-liverpool/agenda.pdf" target='_blank'>Agenda</a>.
 
-
 #### Material
 
 <!-- Summaries generated with www.summarize.tech -->

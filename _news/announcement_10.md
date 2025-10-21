@@ -10,6 +10,3 @@ categories: conference
 <div class="publications">
    {% bibliography -f papers -q @*[key=hernandez2017data]* %}
 </div>
-
-
-

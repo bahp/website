@@ -7,10 +7,10 @@ tags: award icl edin
 categories: award
 ---
 
-Original source: 
+Original source:
 <a href="https://www.ed.ac.uk/infection-medicine/antimicrobial-resistance/antimicrobial-resistance-diagnostics-challenge/amr-dxc-schools/amr-dxc-autumn-school-edinburgh-2015"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">
@@ -32,7 +32,7 @@ Original source:
 <!--
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="https://www.ed.ac.uk/sites/default/files/styles/landscape_breakpoints_theme_uoe_tv_1x/public/thumbnails/image/banner.png?itok=kG3uZazd" 
+        {% include figure.liquid path="https://www.ed.ac.uk/sites/default/files/styles/landscape_breakpoints_theme_uoe_tv_1x/public/thumbnails/image/banner.png?itok=kG3uZazd"
         title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

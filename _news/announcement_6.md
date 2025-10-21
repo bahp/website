@@ -10,5 +10,3 @@ categories: conference
 <div class="publications">
    {% bibliography -f conferences -q @*[key=hernandez2022latent]* %}
 </div>
-
-

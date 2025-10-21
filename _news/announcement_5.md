@@ -7,12 +7,11 @@ tags: award epicimpoc techforesight
 categories: award
 ---
 
-Original source: 
+Original source:
 <a href="https://imperialtechforesight.com/20-futures/tf2040/meta-motivations/"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
-
 
 <p align="justify">
     Imperial Tech Foresight is a futures practice at Imperial College London. We develop foresight thinking that 
@@ -29,7 +28,7 @@ Original source:
     place in June 2020. This conference shared the insights gathered from cutting-edge research world-leading 
     academics and explored the topic across three different themes: Moral Machines, Meta-Motivations and
     Malleable Matter.
-</p>   
+</p>
 
 <iframe class="rounded" 
     width="560" height="315" 
