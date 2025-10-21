@@ -15,7 +15,6 @@ categories:
     London Eye, and delicious Korean food! 
 </p>
 
-
 <div class="row mt-3">
     <div class="col-sm-12 col-lg-6">
         {% include figure.liquid path="assets/img/2016-rss/IMG_6991.JPG" class="img-fluid rounded z-depth-1" %}
