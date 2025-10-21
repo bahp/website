@@ -61,8 +61,6 @@
 "AIIM":
   color: "#CE762A"
 
-
-
 # Conferences
 "ICID":
   color: "#10BEF0"
@@ -72,8 +70,6 @@
 
 "FIS":
   color: "#39584C"
-
-
 
 # Universities
 "URJC":
@@ -93,4 +89,4 @@
 "M.Eng.":
   color: "#91A3B0"
 "B.Eng.":
-    color: "#D4B996"
+  color: "#D4B996"

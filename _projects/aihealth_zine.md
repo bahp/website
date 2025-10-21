@@ -19,6 +19,7 @@ category: Imperial College London
 </p>
 
 Presented at:
+
 <ul>
     <li>Great Exhibition Road Festival (June 2023, London)</li>
     <li>European Congress on Infectious Diseases (April 2023, Copenhagen)</li>

@@ -9,8 +9,8 @@ category: Personal Pursuits
 
 <a href="https://bahp.github.io/js-spare-code/"
    class="" target="_blank">
-   Website
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Website
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

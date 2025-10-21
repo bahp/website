@@ -9,8 +9,8 @@ category: Imperial College London
 
 <a href="https://camonet.org/"
    class="" target="_blank">
-   Official CAMO-Net site
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Official CAMO-Net site
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <b>Role:</b> Postdoctoral researcher
@@ -68,7 +68,6 @@ category: Imperial College London
     with the support of governments and policymakers.
 </p>
 
-
 <div class="row justify-content-sm-center d-none">
     <div class="col-sm">
         {% include figure.liquid path="assets/resources/camonet/liverpool-meeting-data-icl.jpeg" 
@@ -83,7 +82,6 @@ category: Imperial College London
         title="CAMO-Net people" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 <ul>
     <li>Twitter account: <a href="https://twitter.com/CAMO_Net1">@CAMO_Net1</a></li>
@@ -100,8 +98,7 @@ category: Imperial College London
     <li><b>21 Jun 2023</b> - CAMO-Net AI meeting in Liverpool (<a href="/website/news/announcement_19/">link</a>)</li>
 </ul>
 
-
 #### Publications
-    
+
 <div class="publications">
 </div>

@@ -9,8 +9,8 @@ category: Personal Pursuits
 
 <a href="https://bahp.github.io/js-spare-code/examples/apps/rapid-fire-questions/main.html"
    class="" target="_blank">
-   Online app
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Online app
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">
@@ -26,4 +26,3 @@ category: Personal Pursuits
     can engage in lively discussions based on their answers, sparking new conversations 
     and connections among participants.
 </p>
-

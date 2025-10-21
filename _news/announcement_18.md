@@ -14,7 +14,6 @@ categories:
     social activities together! Just to mention a few of them... boat trip to Greenwich, ride on the
     London Eye, and delicious Korean food! 
 </p>
-  
 
 
 <div class="row mt-3">

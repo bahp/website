@@ -42,7 +42,6 @@ category: Imperial College London
     behavior.
 </p>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/resources/abc4d/graphical-abstract.png" 
@@ -65,13 +64,11 @@ category: Imperial College London
     </div>
 </div>
 
-
 <!--
 <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/metabolic/abc4d/" class="btn">
     See Post
 </a>
 -->
-
 
 <br>
 

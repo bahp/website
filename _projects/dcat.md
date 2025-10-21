@@ -68,7 +68,6 @@ category: Imperial College London
     </div>
 </div>
 
-
 <br>
 
 #### Publications
@@ -79,4 +78,3 @@ category: Imperial College London
    {% bibliography -f papers -q @*[key=ming2022diagnosis]* %}
    {% bibliography -f papers -q @*[key=ming2022applied]* %}
 </div>
-

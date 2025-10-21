@@ -9,8 +9,8 @@ category: Personal Pursuits
 
 <a href="https://bahp.github.io/js-spare-code/examples/apps/pregnant-care/main.html"
    class="" target="_blank">
-   Online app
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Online app
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

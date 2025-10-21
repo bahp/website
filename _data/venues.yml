@@ -1,94 +1,92 @@
 # Journals
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#6A8EAE"  # Muted blue (from pastel blue)
+  color: "#6A8EAE" # Muted blue (from pastel blue)
 
 "PhysRev":
   url: https://journals.aps.org/
 
 "Vision":
-  color: "#77BFA3"  # Muted sea green (from pastel green)
+  color: "#77BFA3" # Muted sea green (from pastel green)
 
 "CMI":
   url: https://journals.aps.org/
-  color: "#C0C0C0"  # A solid light grey
+  color: "#C0C0C0" # A solid light grey
 
 "BMC ID":
-  color: "#4DB6AC"  # Medium teal (from pastel aqua)
+  color: "#4DB6AC" # Medium teal (from pastel aqua)
 
 "BMC MIDM":
-  color: "#4DB6AC"  # Medium teal
+  color: "#4DB6AC" # Medium teal
 
 "BMC Medicine":
-  color: "#4DB6AC"  # Medium teal
+  color: "#4DB6AC" # Medium teal
 
 "BMC ARIC":
-  color: "#4DB6AC"  # Medium teal
+  color: "#4DB6AC" # Medium teal
 
 "BMJ":
-  color: "#7D98B8"  # Slate blue (from pastel steel blue)
+  color: "#7D98B8" # Slate blue (from pastel steel blue)
 
 "PLOS DH":
-  color: "#F4A261"  # Sandy orange (from peach)
+  color: "#F4A261" # Sandy orange (from peach)
 
 "Antibiotics":
-  color: "#C89588"  # Dusty rose (from light clay)
+  color: "#C89588" # Dusty rose (from light clay)
 
 "CID":
-  color: "#5DA9D8"  # Sky blue (from pastel sky blue)
+  color: "#5DA9D8" # Sky blue (from pastel sky blue)
 
 "JAC":
-  color: "#EE964B"  # Apricot orange (from light apricot)
+  color: "#EE964B" # Apricot orange (from light apricot)
 
 "JAC AMR":
-  color: "#EE964B"  # Apricot orange
+  color: "#EE964B" # Apricot orange
 
 "IEEE BHI":
-  color: "#64B5F6"  # Powder blue (from very light powder blue)
+  color: "#64B5F6" # Powder blue (from very light powder blue)
 
 "IJID":
-  color: "#60A5FA"  # Cornflower blue (from baby blue)
+  color: "#60A5FA" # Cornflower blue (from baby blue)
 
 "Frontiers DH":
-  color: "#B4D660"  # Muted lime (from pastel lime)
+  color: "#B4D660" # Muted lime (from pastel lime)
 
 "Frontiers Phys.":
-  color: "#B4D660"  # Muted lime
+  color: "#B4D660" # Muted lime
 
 "TLDH":
-  color: "#A185D1"  # Muted lavender (from light lavender)
+  color: "#A185D1" # Muted lavender (from light lavender)
 
 "AIIM":
-  color: "#E1A869"  # Ochre (from wheat/light ochre)
-
+  color: "#E1A869" # Ochre (from wheat/light ochre)
 
 # Conferences
 "ICID":
-  color: "#4DD0E1"  # Bright cyan (from pastel cyan)
+  color: "#4DD0E1" # Bright cyan (from pastel cyan)
 
 "ECCMID":
-  color: "#A8C97F"  # Sage green (from pastel sage)
+  color: "#A8C97F" # Sage green (from pastel sage)
 
 "FIS":
-  color: "#7D9A8C"  # Muted moss green (from pastel moss)
-
+  color: "#7D9A8C" # Muted moss green (from pastel moss)
 
 # Universities
 "URJC":
-  color: "#E57373"  # Muted red/salmon (from light pink)
+  color: "#E57373" # Muted red/salmon (from light pink)
 
 "KTH":
-  color: "#6A99D3"  # Medium blue (from cornflower blue)
+  color: "#6A99D3" # Medium blue (from cornflower blue)
 
 "ICL":
-  color: "#8FA9C1"  # Muted navy (from grey-blue)
+  color: "#8FA9C1" # Muted navy (from grey-blue)
 
 # Academic levels
 "PhD":
-  color: "#B96D6D"  # Muted maroon/rose (from dusty rose)
+  color: "#B96D6D" # Muted maroon/rose (from dusty rose)
 "M.Sc.":
-  color: "#AAB3BB"  # Slate grey-blue (from pastel slate)
+  color: "#AAB3BB" # Slate grey-blue (from pastel slate)
 "M.Eng.":
-  color: "#AAB3BB"  # Medium grey (from light pastel grey)
+  color: "#AAB3BB" # Medium grey (from light pastel grey)
 "B.Eng.":
-  color: "#D4B996"  # Sandstone (from cream/ivory)
+  color: "#D4B996" # Sandstone (from cream/ivory)

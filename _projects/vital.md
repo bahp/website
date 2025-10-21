@@ -9,8 +9,8 @@ category: Imperial College London
 
 <a href="http://vital.oucru.org/"
    class="" target="_blank">
-   Official VITAL site
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Official VITAL site
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <b>Role:</b> Postdoctoral researcher
@@ -44,15 +44,15 @@ category: Imperial College London
 </p>
 
 <!--
-The team will be based in the Hospital for Tropical Diseases (HTD) ICU in Ho Chi Minh 
-city and provide proof-of-principle that bioengineering and artificial intelligence can 
-be used to define physiology and inform clinical decision making in the treatment of 
+The team will be based in the Hospital for Tropical Diseases (HTD) ICU in Ho Chi Minh
+city and provide proof-of-principle that bioengineering and artificial intelligence can
+be used to define physiology and inform clinical decision making in the treatment of
 the commonest life-threatening infectious diseases (dengue shock, septic shock, tetanus,
 TB meningitis).
 -->
 
 #### Publications
-    
+
 <div class="publications">
    {% bibliography -f papers -q @*[key=10.3389/fdgth.2023.1057467]* %}
    {% bibliography -f papers -q @*[key=nguyen2023mapping]* %}
