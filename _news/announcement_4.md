@@ -7,16 +7,16 @@ tags: award eicimpoc techcelerate
 categories: award
 ---
 
-Original source: 
+Original source:
 <a href="https://www.imperial.ac.uk/news/194793/future-entrepreneurs-start-intensive-training-programme/"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
-Meet the cohort: 
+Meet the cohort:
 <a href="https://www.imperial.ac.uk/enterprise/staff/techcelerate/participants/cohort-three/"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">
