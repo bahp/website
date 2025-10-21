@@ -55,7 +55,7 @@ Official CAMO-Net site
 </p>
 
 <div class="row justify-content-center">
-    {% include figure.liquid loading="eager" path="assets/resources/camonet/worldmap.jpeg" 
+    {% include figure.liquid loading="eager" path="assets/img/camonet/worldmap.jpeg" 
     title="CAMO-Net sites" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
@@ -70,15 +70,15 @@ Official CAMO-Net site
 
 <div class="row justify-content-sm-center d-none">
     <div class="col-sm">
-        {% include figure.liquid loading="eager" path="assets/resources/camonet/liverpool-meeting-data-icl.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-data-icl.jpeg" 
         title="CAMO-Net ICL data presenters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid loading="eager" path="assets/resources/camonet/liverpool-meeting-data-all.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-data-all.jpeg" 
         title="CAMO-Net UOL and ICL" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid loading="eager" path="assets/resources/camonet/liverpool-meeting-people.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-people.jpeg" 
         title="CAMO-Net people" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
