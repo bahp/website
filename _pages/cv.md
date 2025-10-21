@@ -5,9 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: /resume/resume-20230321.pdf # you can also use external links here
-description: 
+description:
 toc:
   sidebar: left
 ---
-
-[//]: # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
