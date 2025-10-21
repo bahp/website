@@ -44,22 +44,22 @@ category: Imperial College London
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/abc4d/graphical-abstract.png" 
+        {% include figure.liquid loading="eager" path="assets/resources/abc4d/graphical-abstract.png" 
         title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/abc4d/img-1.png" 
+        {% include figure.liquid loading="eager" path="assets/resources/abc4d/img-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/abc4d/yoda-demo-2.png" 
+        {% include figure.liquid loading="eager" path="assets/resources/abc4d/yoda-demo-2.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/abc4d/yoda-demo-1.png" 
+        {% include figure.liquid loading="eager" path="assets/resources/abc4d/yoda-demo-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
