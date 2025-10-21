@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/theses/
 title: theses
-description: theses grouped by year.
+description: Theses grouped by year.
 years: [2019, 2013]
 nav: false
 nav_order: 1
