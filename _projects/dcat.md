@@ -2,7 +2,7 @@
 layout: page
 title: D-CAT
 description: Clinical application tool to support dengue management in low and middle income countries.
-img: assets/resources/backgrounds/thumbnails/background-1.jpeg
+img: assets/img/backgrounds/thumbnails/background-1.jpeg
 importance: 3
 category: Imperial College London
 ---
@@ -40,30 +40,30 @@ category: Imperial College London
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/dcat/dcat-01.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-01.PNG" 
         title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/dcat/dcat-02.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-02.PNG" 
         title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/dcat/dcat-03.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-03.PNG" 
         title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/dcat/dcat-04.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-04.PNG" 
         title="similar past patients" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/dcat/dcat-05.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-05.PNG" 
         title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/dcat/dcat-06.PNG" 
+        {% include figure.liquid path="assets/img/dcat/dcat-06.PNG" 
         title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

@@ -2,7 +2,7 @@
 layout: page
 title: JavaScript spare code
 description: A portfolio of tools and visualisations developed in JavaScript.
-img: assets/resources/backgrounds/thumbnails/background-js-7.jpg
+img: assets/img/backgrounds/thumbnails/background-js-7.jpg
 importance: 3
 category: Personal Pursuits
 ---

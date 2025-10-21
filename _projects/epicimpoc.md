@@ -2,7 +2,7 @@
 layout: page
 title: EPiCIMPOC
 description: Clinical decision support system (CDSS) to support infection management at the point of care.
-img: assets/resources/backgrounds/thumbnails/background-3.jpeg
+img: assets/img/backgrounds/thumbnails/background-3.jpeg
 importance: 1
 category: Imperial College London
 
@@ -57,7 +57,7 @@ Official EPiC IMPOC site
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-summary.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-summary.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -85,19 +85,19 @@ Official EPiC IMPOC site
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-main.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-main.png" 
         title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-therapy.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-therapy.png" 
         title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-laboratory.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-laboratory.png" 
         title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-cbr-3.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-cbr-3.png" 
         title="similar past patients" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

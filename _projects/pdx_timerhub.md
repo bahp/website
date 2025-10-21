@@ -2,7 +2,7 @@
 layout: page
 title: ProtonDx TimerHUB
 description: A web-app to provide a collection of timers for diagnostics.
-img: assets/resources/backgrounds/thumbnails/background-pdx.png
+img: assets/img/backgrounds/thumbnails/background-pdx.png
 importance: 1
 category: Freelance
 ---

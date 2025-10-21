@@ -2,7 +2,7 @@
 layout: page
 title: VITAL
 description: Multidisciplinary global collaboration to develop tools to support dengue management in limited resource settings.
-img: assets/resources/backgrounds/thumbnails/background-4.jpeg
+img: assets/img/backgrounds/thumbnails/background-4.jpeg
 importance: 2
 category: Imperial College London
 ---
