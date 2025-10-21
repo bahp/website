@@ -352,8 +352,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
-    - assets/resources/abc4d/
+    - assets/
   input_formats:
     - ".jpg"
     - ".jpeg"
