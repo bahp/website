@@ -6,16 +6,16 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 5
 dropdown: true
-children: 
-    - title: journals
-      permalink: /publications/journals/
-    - title: conferences
-      permalink: /publications/conferences/
-    - title: theses
-      permalink: /publications/theses/
-    - title: divider
-    - title: other
-      permalink: /publications/other
+children:
+  - title: journals
+    permalink: /publications/journals/
+  - title: conferences
+    permalink: /publications/conferences/
+  - title: theses
+    permalink: /publications/theses/
+  - title: divider
+  - title: other
+    permalink: /publications/other
 ---
 
 <!-- _pages/publications.md -->

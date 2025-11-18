@@ -2,7 +2,7 @@
 layout: page
 title: Health AI Zine
 description: Booklet in a zine format illustrating the key ideas behind the use of data and AI for decision-support in health-care.
-img: assets/resources/backgrounds/thumbnails/background-5.jpeg
+img: assets/img/backgrounds/thumbnails/background-5.jpeg
 importance: 3
 category: Imperial College London
 ---
@@ -19,6 +19,7 @@ category: Imperial College London
 </p>
 
 Presented at:
+
 <ul>
     <li>Great Exhibition Road Festival (June 2023, London)</li>
     <li>European Congress on Infectious Diseases (April 2023, Copenhagen)</li>
@@ -28,10 +29,10 @@ Presented at:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/zine/zine-01.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/zine/zine-01.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/zine/zine-06.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid path="assets/img/zine/zine-06.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 

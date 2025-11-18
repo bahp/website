@@ -1,79 +1,92 @@
+# Journals
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#6A8EAE" # Muted blue (from pastel blue)
 
 "PhysRev":
   url: https://journals.aps.org/
 
 "Vision":
-  color: "#009f36"
+  color: "#77BFA3" # Muted sea green (from pastel green)
 
 "CMI":
   url: https://journals.aps.org/
-  color: "#d3d3d3"
+  color: "#C0C0C0" # A solid light grey
 
 "BMC ID":
-  color: "#04caa8"
+  color: "#4DB6AC" # Medium teal (from pastel aqua)
 
 "BMC MIDM":
-  color: "#04caa8"
+  color: "#4DB6AC" # Medium teal
 
 "BMC Medicine":
-  color: "#04caa8"
+  color: "#4DB6AC" # Medium teal
 
 "BMC ARIC":
-  color: "#04caa8"
+  color: "#4DB6AC" # Medium teal
 
 "BMJ":
-  color: "#3f2e63"
+  color: "#7D98B8" # Slate blue (from pastel steel blue)
 
 "PLOS DH":
-  color: "#f65606"
+  color: "#F4A261" # Sandy orange (from peach)
 
 "Antibiotics":
-  color: "rgba(85,0,0,0.75)"
+  color: "#C89588" # Dusty rose (from light clay)
 
 "CID":
-  color: "#006fb7"
+  color: "#5DA9D8" # Sky blue (from pastel sky blue)
 
 "JAC":
-  color: "#ea5b0c"
+  color: "#EE964B" # Apricot orange (from light apricot)
 
 "JAC AMR":
-  color: "#ea5b0c"
+  color: "#EE964B" # Apricot orange
 
 "IEEE BHI":
-  color: "#14303e"
+  color: "#64B5F6" # Powder blue (from very light powder blue)
 
 "IJID":
-  color: "#0092d7"
+  color: "#60A5FA" # Cornflower blue (from baby blue)
 
 "Frontiers DH":
-  color: "#CAE87C"
+  color: "#B4D660" # Muted lime (from pastel lime)
 
 "Frontiers Phys.":
-  color: "#CAE87C"
+  color: "#B4D660" # Muted lime
 
 "TLDH":
-  color: "#6667ab"
+  color: "#A185D1" # Muted lavender (from light lavender)
 
+"AIIM":
+  color: "#E1A869" # Ochre (from wheat/light ochre)
 
+# Conferences
 "ICID":
-  color: "#10BEF0"
+  color: "#4DD0E1" # Bright cyan (from pastel cyan)
 
 "ECCMID":
-  color: "#96BD24"
+  color: "#A8C97F" # Sage green (from pastel sage)
 
 "FIS":
-  color: "#39584C"
+  color: "#7D9A8C" # Muted moss green (from pastel moss)
 
-
-
+# Universities
 "URJC":
-  color: "#CB0017"
+  color: "#E57373" # Muted red/salmon (from light pink)
 
 "KTH":
-  color: "#2258A5"
+  color: "#6A99D3" # Medium blue (from cornflower blue)
 
 "ICL":
-  color: "#003E74"
+  color: "#8FA9C1" # Muted navy (from grey-blue)
+
+# Academic levels
+"PhD":
+  color: "#B96D6D" # Muted maroon/rose (from dusty rose)
+"M.Sc.":
+  color: "#AAB3BB" # Slate grey-blue (from pastel slate)
+"M.Eng.":
+  color: "#AAB3BB" # Medium grey (from light pastel grey)
+"B.Eng.":
+  color: "#D4B996" # Sandstone (from cream/ivory)

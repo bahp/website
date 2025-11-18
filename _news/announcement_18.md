@@ -4,9 +4,8 @@ title: Ambassador at the Robotics Summer School
 date: 2016-07-05 15:59:00-0400
 inline: false
 tags: conference oral
-categories: 
+categories:
 ---
-
 
 <p align="justify">
     Happy to have joined the Ambassadors Team for the Robotic Summer School at Imperial College. It
@@ -15,8 +14,6 @@ categories:
     social activities together! Just to mention a few of them... boat trip to Greenwich, ride on the
     London Eye, and delicious Korean food! 
 </p>
-  
-    
 
 <div class="row mt-3">
     <div class="col-sm-12 col-lg-6">

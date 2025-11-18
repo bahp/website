@@ -7,10 +7,10 @@ tags: collaboration
 categories:
 ---
 
-Original source: 
+Original source:
 <a href="https://www.imperial.ac.uk/news/173532/hpru-team-return-from-three-week/"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 University of Cape Town and Imperial College London: Global Health Fellows Programme 2016

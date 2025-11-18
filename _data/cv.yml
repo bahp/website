@@ -8,7 +8,6 @@
     - name: Languages
       value: Spanish, English
 
-
 - title: Experience
   type: time_table
   contents:
@@ -23,9 +22,9 @@
           Institute in Uganda, and the Faculty of Medicine at the University of Sao Paulo in Brazil
           to conduct research to optimize antimicrobial use and improve access to effective treatment
           for bacterial infections across low-, middle-, and high-resource settings.
-            <a href="https://camonet.org/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
+          <a href="https://camonet.org/" class="float-right" target="_blank">
+          <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+          </a>
 
     - title: Research Associate
       institution: Imperial College London, London, UK
@@ -34,22 +33,21 @@
         - Artificial Intelligence and machine learning to devise clinical decision support systems
           (CDSS) from clinical, physiological and imaging data for the early identification of dengue
           in low- and middle-income countries.
-            <a href="/portfolio-academic/projects/vital/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
+          <a href="/portfolio-academic/projects/vital/" class="float-right" target="_blank">
+          <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+          </a>
 
         - title: Activities & Awards
           contents:
             - Featured innovative start-up at Tech Foresight 2040.
-                <a href="/portfolio-academic/news/announcement_5/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="/portfolio-academic/news/announcement_5/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
             - Techcelerate award (entrepreneurial program), 2020.
-                <a href="/portfolio-academic/news/announcement_4/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="/portfolio-academic/news/announcement_4/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
             - Assistant supervisor
-
 
     - title: Research Assistant
       institution: Imperial College London, London, UK
@@ -57,9 +55,9 @@
       description:
         - Development of a comprehensive and modular data-driven web-based intelligent decision support
           system to help clinicians prescribe the most appropriate antibiotics at the point of care.
-            <a href="/portfolio-academic/projects/epicimpoc/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
+          <a href="/portfolio-academic/projects/epicimpoc/" class="float-right" target="_blank">
+          <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+          </a>
 
     - title: Software Engineer
       institution: Wide IO LTD, London, UK
@@ -77,8 +75,6 @@
           Leonardo program, 2012. The aim of this one-month internship was to develop e-learning
           resources such as blog entries, ebooks and games.
 
-
-
 - title: Education
   type: time_table
   contents:
@@ -92,27 +88,27 @@
             - Centre for Bio-Inspired Technology, EEE
             - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
               <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=Data%2Ddriven%20web%2Dbased%20intelligent%20decision%20support%20system%20for%20infection%20management%20at%20point%20of%20care" class="" target="_blank">
-                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
               </a>
         - title: Activities & Awards
           contents:
             - Participation in the Imperial Festival, 2016-2017.
             - Research placement at UCT, Cape Town, South Africa, 2016.
-                <a href="https://bahp.github.io/portfolio-academic/news/announcement_15/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="https://bahp.github.io/portfolio-academic/news/announcement_15/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
             - Global Health Fellows Programme at UCT, 2016.
-                <a href="https://bahp.github.io/portfolio-academic/news/announcement_12/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="https://bahp.github.io/portfolio-academic/news/announcement_12/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
             - Best poster award at EMBRACE conference, 2016.
-                <a href="https://bahp.github.io/portfolio-academic/news/announcement_11/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="https://bahp.github.io/portfolio-academic/news/announcement_11/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
             - Participation in AMR DxC at University of Edinburgh, 2015.
-                <a href="https://bahp.github.io/portfolio-academic/news/announcement_13/" class="float-right" target="_blank">
-                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-                </a>
+              <a href="https://bahp.github.io/portfolio-academic/news/announcement_13/" class="float-right" target="_blank">
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
 
     - title: M.Sc. in Machine Learning (2 years)
       institution: Royal Institute of Technology, Stockholm, Sweden
@@ -124,7 +120,7 @@
             - School of Computer Science and Communication
             - Multi-view object recognition and classification. Graph-Based representation of visual features and structured learning and prediction.
               <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=KTH-,Multi%2DView%20Object%20Recognition%20and%20Classification.%20Graph%2DBasedRepresentation%20of%20Visual%20Features%20and%20Structured%20Learning%20and%20Prediction,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez" class="" target="_blank">
-                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
               </a>
 
     - title: B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)
@@ -137,7 +133,7 @@
             - Signal Theory and Communications
             - Algorithms for detection and description of visual features for object recognition. Analysis and applications.
               <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=URJC-,Algorithms%20for%20Detection%20and%20Description%20of%20Visual%20Features%20for%20Object%20Recognition.%20Analysis%20and%20Applications,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez" class="" target="_blank">
-                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
               </a>
         - title: Activities & Awards
           contents:
@@ -219,10 +215,10 @@
 - title: Publications
   type: map
   contents:
-      - name:
-        value: See the <a href="/portfolio-academic/publications/journals/">journals</a> or
-               <a href="/portfolio-academic/publications/conferences/">conference</a> pages
-               for a full list.
+    - name:
+      value: See the <a href="/portfolio-academic/publications/journals/">journals</a> or
+        <a href="/portfolio-academic/publications/conferences/">conference</a> pages
+        for a full list.
 
 #- title: Conferences
 #  See the Conferences page for a full list.

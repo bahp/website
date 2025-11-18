@@ -2,15 +2,15 @@
 layout: page
 title: JavaScript spare code
 description: A portfolio of tools and visualisations developed in JavaScript.
-img: assets/resources/backgrounds/thumbnails/background-js-7.jpg
+img: assets/img/backgrounds/thumbnails/background-js-7.jpg
 importance: 3
 category: Personal Pursuits
 ---
 
 <a href="https://bahp.github.io/js-spare-code/"
    class="" target="_blank">
-   Website
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Website
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

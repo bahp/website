@@ -22,7 +22,6 @@ categories: conference
     in healthcare. 
 </p>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 

@@ -101,11 +101,11 @@
       "endDate": "2019",
       "score": "10",
       "courses": [
-         "Participation in the Imperial Festival, 2016-2017.",
-         "Research placement at UCT, Cape Town, South Africa, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_15/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
-         "Global Health Fellows Programme at UCT, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_12/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
-         "Best poster award at EMBRACE conference, 2016. <a href=\"https://bahp.github.io/portfolio-academic/news/announcement_11/\" class=\"float-right\" target=\"_blank\"> <i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
-         "Participation in AMR DxC at University of Edinburgh, 2015.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_13/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>"
+        "Participation in the Imperial Festival, 2016-2017.",
+        "Research placement at UCT, Cape Town, South Africa, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_15/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+        "Global Health Fellows Programme at UCT, 2016.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_12/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+        "Best poster award at EMBRACE conference, 2016. <a href=\"https://bahp.github.io/portfolio-academic/news/announcement_11/\" class=\"float-right\" target=\"_blank\"> <i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>",
+        "Participation in AMR DxC at University of Edinburgh, 2015.<a href=\"https://bahp.github.io/portfolio-academic/news/announcement_13/\" class=\"float-right\" target=\"_blank\"><i class=\"fa fa-sm fa-link\" aria-hidden=\"true\"></i></a>"
       ]
     },
     {
@@ -254,71 +254,43 @@
       "name": "Domains & Expertise",
       "level": "",
       "icon": "fa-solid fa-lightbulb",
-      "keywords": [
-        "Machine Learning",
-        "Data Manipulation",
-        "Clinical Decision Support"
-      ]
+      "keywords": ["Machine Learning", "Data Manipulation", "Clinical Decision Support"]
     },
     {
       "name": "Professional Skills",
       "level": "",
       "icon": "fa-solid fa-users",
-      "keywords": [
-        "Communication, Collaboration, Problem-Solving",
-        "Mentorship, Leadership, Stakeholder Management"
-      ]
+      "keywords": ["Communication, Collaboration, Problem-Solving", "Mentorship, Leadership, Stakeholder Management"]
     },
     {
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python, JavaScript, SQL, HTML5 & CSS3",
-        "Bash / Shell Scripting, LaTeX",
-        "R & MATLAB, C / C++, Java"
-      ]
+      "keywords": ["Python, JavaScript, SQL, HTML5 & CSS3", "Bash / Shell Scripting, LaTeX", "R & MATLAB, C / C++, Java"]
     },
     {
       "name": "Data Science & Machine Learning",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Pandas, NumPy, SciPy, Scikit-learn",
-        "TensorFlow, PyTorch, Keras",
-        "Matplotlib, Seaborn, Plotly"
-      ]
+      "keywords": ["Pandas, NumPy, SciPy, Scikit-learn", "TensorFlow, PyTorch, Keras", "Matplotlib, Seaborn, Plotly"]
     },
     {
       "name": "Back-End Development",
       "level": "Advanced",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "Django, Flask, FastAPI",
-        "Celery, SQLAlchemy, REST APIs",
-        "PostgreSQL, MySQL, QLite, MongoDB"
-      ]
+      "keywords": ["Django, Flask, FastAPI", "Celery, SQLAlchemy, REST APIs", "PostgreSQL, MySQL, QLite, MongoDB"]
     },
     {
       "name": "DevOps & Cloud",
       "level": "Proficient",
       "icon": "fa-solid fa-cloud-arrow-up",
-      "keywords": [
-        "CI/CD, Git, GitHub Actions, Docker",
-        "Travis, Codecov, ReadTheDocs, Heroku",
-        "AWS, Google Cloud (GCP), Microsoft Azure"
-      ]
+      "keywords": ["CI/CD, Git, GitHub Actions, Docker", "Travis, Codecov, ReadTheDocs, Heroku", "AWS, Google Cloud (GCP), Microsoft Azure"]
     },
     {
       "name": "Research & Scientific Computing",
       "level": "Expert",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Algorithm Design, Data Structures",
-        "Statistical Modelling, Academic Writing",
-        "Jupyter Notebooks, LaTeX",
-        "Peer Reviewing"
-      ]
+      "keywords": ["Algorithm Design, Data Structures", "Statistical Modelling, Academic Writing", "Jupyter Notebooks, LaTeX", "Peer Reviewing"]
     }
   ],
   "languages": [
@@ -335,7 +307,7 @@
   ],
   "interests": [],
   "references": [
-     {
+    {
       "name": "Professor Alison Holmes",
       "icon": "fa-solid fa-user-doctor",
       "reference": "Professor of Infectious Diseases at Imperial College London, an internationally recognised expert in antimicrobial resistance (AMR) and infection prevention."

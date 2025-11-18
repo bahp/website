@@ -3,14 +3,14 @@ layout: post
 title: Accepted to participate in the ICL-UCT Global Health Fellows Program!
 date: 2016-05-12 15:59:00-0400
 inline: false
-tags: award collaboration uct icl 
+tags: award collaboration uct icl
 categories: award
 ---
 
-Original source: 
+Original source:
 <a href="https://www.imperial.ac.uk/students/global-opportunities/pg/student-experiences/bernard-hernandez--/"
    class="" target="_blank">
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

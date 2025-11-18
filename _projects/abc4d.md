@@ -2,7 +2,7 @@
 layout: page
 title: abc4d
 description: Advanced bolus calculator for diabetes (ABC4D) based on the Case-based Reasoning (CBR) methodology.
-img: assets/resources/backgrounds/thumbnails/background-6.jpeg
+img: assets/img/backgrounds/thumbnails/background-6.jpeg
 importance: 3
 category: Imperial College London
 ---
@@ -42,36 +42,33 @@ category: Imperial College London
     behavior.
 </p>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/abc4d/graphical-abstract.png" 
+        {% include figure.liquid loading="eager" path="assets/img/abc4d/graphical-abstract.png" 
         title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/abc4d/img-1.png" 
+        {% include figure.liquid loading="eager" path="assets/img/abc4d/img-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/abc4d/yoda-demo-2.png" 
+        {% include figure.liquid loading="eager" path="assets/img/abc4d/yoda-demo-2.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/abc4d/yoda-demo-1.png" 
+        {% include figure.liquid loading="eager" path="assets/img/abc4d/yoda-demo-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 <!--
 <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/metabolic/abc4d/" class="btn">
     See Post
 </a>
 -->
-
 
 <br>
 

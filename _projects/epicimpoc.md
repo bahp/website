@@ -2,7 +2,7 @@
 layout: page
 title: EPiCIMPOC
 description: Clinical decision support system (CDSS) to support infection management at the point of care.
-img: assets/resources/backgrounds/thumbnails/background-3.jpeg
+img: assets/img/backgrounds/thumbnails/background-3.jpeg
 importance: 1
 category: Imperial College London
 
@@ -17,8 +17,8 @@ toc:
 
 <a href="https://bernardhernandezpe.wixsite.com/epicimpoc/"
    class="" target="_blank">
-   Official EPiC IMPOC site
-   <i class="fa fa-sm fa-link align-items-right" aria-hidden="true"></i>
+Official EPiC IMPOC site
+<i class="fa fa-sm fa-link align-items-right" aria-hidden="true"></i>
 </a>
 
 <b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.
@@ -57,7 +57,7 @@ toc:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-summary.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-summary.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -85,23 +85,22 @@ toc:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-main.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-main.png" 
         title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-therapy.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-therapy.png" 
         title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-laboratory.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-laboratory.png" 
         title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/epicimpoc/cdss-cbr-3.png" 
+        {% include figure.liquid path="assets/img/epicimpoc/cdss-cbr-3.png" 
         title="similar past patients" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 ##### Microbiology
 
@@ -159,7 +158,6 @@ toc:
     severity of the patient and the risk of suffering complications in following days, among others.
 </p>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
@@ -199,7 +197,6 @@ toc:
 
 #### Posts
 
-
 <ul>
     <li>Featured in <a href="https://pharmaceutical-journal.com/article/feature/prepare-to-say-hi-to-your-virtual-ai-assistant">The Pharmaceutical Journal</a></li>
     <li>Featured innovative start-up at <a href="https://imperialtechforesight.com/20-futures/tf2040/meta-motivations/">TechForesight 2040</a></li>
@@ -212,7 +209,6 @@ toc:
     <li>Clinical trial registration in ichgcp.net <a href="https://ichgcp.net/clinical-trials-registry/NCT04013737"> (web) </a></li>
 </ul>
 
-
 <!--
 <a href="https://fundingawards.nihr.ac.uk/award/II-LA-0214-20008" class="btn"> NIHR Award  </a>
 <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/" class="btn"> ICL CBIT Post </a>
@@ -222,7 +218,7 @@ toc:
 EPSRC pump priming award, as part of Imperial Antimicrobial Resistance Collaborative (ARC) EMBRACE project,
 
 -->
-    
+
 <br>
     
 #### Publications

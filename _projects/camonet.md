@@ -2,15 +2,15 @@
 layout: page
 title: CAMO-NET
 description: Multidisciplinary global collaboration to address the impact of antimicrobial resistance.
-img: assets/resources/backgrounds/thumbnails/background-15.jpeg
+img: assets/img/backgrounds/thumbnails/background-15.jpeg
 importance: 2
 category: Imperial College London
 ---
 
 <a href="https://camonet.org/"
    class="" target="_blank">
-   Official CAMO-Net site
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Official CAMO-Net site
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <b>Role:</b> Postdoctoral researcher
@@ -55,7 +55,7 @@ category: Imperial College London
 </p>
 
 <div class="row justify-content-center">
-    {% include figure.liquid path="assets/resources/camonet/worldmap.jpeg" 
+    {% include figure.liquid loading="eager" path="assets/img/camonet/worldmap.jpeg" 
     title="CAMO-Net sites" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
@@ -68,22 +68,20 @@ category: Imperial College London
     with the support of governments and policymakers.
 </p>
 
-
 <div class="row justify-content-sm-center d-none">
     <div class="col-sm">
-        {% include figure.liquid path="assets/resources/camonet/liverpool-meeting-data-icl.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-data-icl.jpeg" 
         title="CAMO-Net ICL data presenters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/camonet/liverpool-meeting-data-all.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-data-all.jpeg" 
         title="CAMO-Net UOL and ICL" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
-        {% include figure.liquid path="assets/resources/camonet/liverpool-meeting-people.jpeg" 
+        {% include figure.liquid loading="eager" path="assets/img/camonet/liverpool-meeting-people.jpeg" 
         title="CAMO-Net people" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 <ul>
     <li>Twitter account: <a href="https://twitter.com/CAMO_Net1">@CAMO_Net1</a></li>
@@ -100,8 +98,7 @@ category: Imperial College London
     <li><b>21 Jun 2023</b> - CAMO-Net AI meeting in Liverpool (<a href="/website/news/announcement_19/">link</a>)</li>
 </ul>
 
-
 #### Publications
-    
+
 <div class="publications">
 </div>

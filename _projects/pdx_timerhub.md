@@ -2,15 +2,15 @@
 layout: page
 title: ProtonDx TimerHUB
 description: A web-app to provide a collection of timers for diagnostics.
-img: assets/resources/backgrounds/thumbnails/background-pdx.png
+img: assets/img/backgrounds/thumbnails/background-pdx.png
 importance: 1
 category: Freelance
 ---
 
 <a href="https://bahp.github.io/pwa-timerhub/"
    class="" target="_blank">
-   Online app
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Online app
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

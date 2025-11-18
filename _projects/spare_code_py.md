@@ -2,15 +2,15 @@
 layout: page
 title: Python spare code
 description: A portfolio of short scripts with tools and visualisations developed in Python.
-img: assets/resources/backgrounds/thumbnails/background-python-8.jpg
+img: assets/img/backgrounds/thumbnails/background-python-8.jpg
 importance: 4
 category: Personal Pursuits
 ---
 
 <a href="https://bahp.github.io/python-spare-code/"
    class="" target="_blank">
-   Website
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Website
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">

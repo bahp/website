@@ -2,15 +2,15 @@
 layout: page
 title: Pregnancy Care
 description: A web-app for midwifes to facilitate the management of antenatal care plans.
-img: assets/resources/backgrounds/thumbnails/background-pregnancy-4.jpg
+img: assets/img/backgrounds/thumbnails/background-pregnancy-4.jpg
 importance: 1
 category: Personal Pursuits
 ---
 
 <a href="https://bahp.github.io/js-spare-code/examples/apps/pregnant-care/main.html"
    class="" target="_blank">
-   Online app
-   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+Online app
+<i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
 <p align="justify">
