@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "",
+          description: "A selection of interesting repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/repositories/";
@@ -535,6 +535,11 @@ ninja.data = [{
           description: "camonet ai uk liverpool .",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_22/";
+            },},{id: "news-presentation-oral-at-advances-in-oncology",
+          title: 'Presentation (oral) at Advances in Oncology.',
+          description: "Patras, Greece.",
+          section: "News",handler: () => {
+              window.location.href = "/website/news/announcement_23/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
