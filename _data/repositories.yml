@@ -4,10 +4,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - bahp/ls2d
-  - bahp/pyamr
   - bahp/python-spare-code
   - bahp/js-spare-code
+  - bahp/myndscribe
+  - bahp/instamap
+  - bahp/ls2d
+  - bahp/pyamr
   - bahp/datablend
   - bahp/flipbooks
   - bahp/vital-oucru-clinical
