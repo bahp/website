@@ -615,6 +615,16 @@ ninja.data = [{
           description: "Clinical decision support system (CDSS) to support infection management at the point of care.",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/epicimpoc/";
+            },},{id: "projects-instamap",
+          title: 'Instamap',
+          description: "Turn your saved instagram posts into an interactive map",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/instamap/";
+            },},{id: "projects-myndscribe",
+          title: 'Myndscribe',
+          description: "Turn your self-sent emails into an organized knowledge base.",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/myndscribe/";
             },},{id: "projects-protondx-timerhub",
           title: 'ProtonDx TimerHUB',
           description: "A web-app to provide a collection of timers for diagnostics.",
